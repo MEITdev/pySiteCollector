@@ -1,0 +1,10 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-04-20 12:15 ICT
+Nmap scan report for 42.119.211.163
+Host is up (0.0044s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.11 seconds
